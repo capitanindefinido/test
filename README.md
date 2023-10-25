@@ -52,3 +52,8 @@
 * Correcto uso de GIT
 * Patrones de diseño
 * Orden del código
+
+## Instalación de librerias
+---
+* pip install bs4
+* pip install requests
